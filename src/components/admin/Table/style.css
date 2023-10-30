@@ -1,0 +1,25 @@
+
+
+:where(.css-dev-only-do-not-override-4oup33).ant-pagination .ant-pagination-item-active {
+    background-color: #000008;
+    border-color: #fff !important;
+}
+:where(.css-dev-only-do-not-override-4oup33).ant-pagination .ant-pagination-item-active a {
+    color: var(--primary);
+
+}
+:where(.css-dev-only-do-not-override-4oup33).ant-pagination .ant-pagination-item {
+    border-color: var(--primary);
+
+}
+:where(.css-dev-only-do-not-override-4oup33).ant-pagination .ant-pagination-item a {
+    color: var(--primary);
+
+}
+.anticon {
+    color: aliceblue;
+}
+:where(.css-dev-only-do-not-override-4oup33).ant-pagination .ant-pagination-jump-prev .ant-pagination-item-container .ant-pagination-item-ellipsis, :where(.css-dev-only-do-not-override-4oup33).ant-pagination .ant-pagination-jump-next .ant-pagination-item-container .ant-pagination-item-ellipsis{
+    background-color: #000008;
+    color: aliceblue;
+}
